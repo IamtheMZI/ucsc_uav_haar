@@ -1,0 +1,5 @@
+cd ..
+cmake .
+make
+cd bin
+./Haar face_test2.jpg

@@ -1,0 +1,11 @@
+cd ..
+cmake .
+make
+cd bin
+./Haar face_test1.jpg
+./Haar face_test2.jpg
+./Haar face_test3.jpg
+./Haar face_test4.jpg
+./Haar face_test5.jpg
+./Haar face_test6.jpg
+./Haar face_test7.jpg
